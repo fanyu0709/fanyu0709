@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-ff5a88?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/fanyu0709"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://fanyu0709.github.io"><img src="https://img.shields.io/badge/Portfolio-111?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:fanyu0709@gmail.com"><img src="https://img.shields.io/badge/Email-ff5a88?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fanyu-lau-227b162a8/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-111?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
