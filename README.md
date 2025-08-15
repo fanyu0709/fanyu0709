@@ -55,9 +55,8 @@
 ---
 
 ### 💬 Get in touch
-- Email: **YOUR_EMAIL**
-- LinkedIn: **[linkedin.com/in/fanyu0709](https://www.linkedin.com/in/fanyu0709)**
-- Portfolio: **https://fanyu0709.github.io**
+- Email: fanyu0709@gmail.com
+- LinkedIn: **[linkedin.com/in/fanyu0709](https://www.linkedin.com/in/fanyu-lau-227b162a8/)**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fanyu0709&label=Profile%20Views&color=ff69b4&style=flat-square" />
